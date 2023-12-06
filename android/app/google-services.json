@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298918000507",
+    "project_id": "hrmproject-b5417",
+    "storage_bucket": "hrmproject-b5417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298918000507:android:24c0c20810a861775defde",
+        "android_client_info": {
+          "package_name": "com.example.asi_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSkHzxSn4rNt4VDooDgjIW_KwwCJ6Rig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
